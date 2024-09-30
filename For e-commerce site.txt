@@ -1,0 +1,5 @@
+For e-commerce site
+frontend-npm start
+backend-npm start
+admin-npm run dev
+next connect the mongodb atlas and also current I address
